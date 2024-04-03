@@ -11,11 +11,11 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
-	"html/template"
 	"io"
 	"net/http"
 	"net/url"
 	"regexp"
+	"text/template"
 	"time"
 
 	"github.com/beevik/etree"
